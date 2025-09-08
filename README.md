@@ -13,8 +13,8 @@ Automation example using Playwright interacting with several types of elements, 
 - Install dependencies (npm install)
 - Run Project
     - Headless Mode (npm run test:qa)
-    - Headed Mode (npm run test:qa:ui)
-    - Using Playwright Cli (npm run test:qa:ui)
+    - Headed Mode (npm run test:qa:headed)
+    - Using Playwright CLI (npm run test:qa:ui)
 
 # Artifacts
 
