@@ -1,0 +1,17 @@
+{
+  "name": "qa_demoqa_playwright",
+  "version": "1.0.0",
+  "description": "Automation Project using Playwright",
+  "main": "index.js",
+  "scripts": {
+    "test:qa": "npx playwright test",
+    "test:qa:headed": "npx playwright test --headed",
+    "test:qa:ui": "npx playwright test --ui"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.1"
+  }
+}
